@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amiiiirirr
 - 👨‍🎓 I'm currently a student.
-- 👀 I’m interested in development, mostly front end. 
-- 👨‍💻 I finished Html and CSS, and learning Javascript and React.
+- 👀 I’m really interested in Software engineering, and would like to become one in future.
 - 💞️ I’m looking to collaborate with other developers around the world to learn and become a better developer.
 - 📫 How to reach me, by email at:
 amirreza.stu98@gmail.com
